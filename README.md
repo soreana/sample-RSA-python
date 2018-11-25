@@ -9,8 +9,5 @@
 ### Step tree: cryptography installation
 * Install cryptography library for current user by `pip3 install cryptography --user`
 
-### Step four: Final step
-* Run this script by `python3 RSA.py`
-
 
 ## How to run each file and expected output
