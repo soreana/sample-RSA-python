@@ -10,4 +10,4 @@
 * Install cryptography library for current user by `pip3 install cryptography --user`
 
 
-## How to run each file and expected output
+## How to run each file
